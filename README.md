@@ -1,1 +1,1 @@
-# SayfaGe-i-leri-Android
+# SayfaGecisleri-Android
